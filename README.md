@@ -1,4 +1,4 @@
-![logo](https://github.com/Anshul-Mokhale/Anshul-Mokhale/blob/main/Group%201%20(1).svg)
+![logo](https://github.com/Anshul-Mokhale/Anshul-Mokhale/blob/main/Group%201%20(3).svg)
 
 <h1 align="center">Hi 👋, I'm Anshul Mokhale</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
