@@ -1,4 +1,4 @@
-  <img src="https://github.com/Anshul-Mokhale/Anshul-Mokhale/blob/main/Group%201%20(1).svg" alt="logo" style="width: 1000px; height: 500px;">
+![logo]<img src="https://github.com/Anshul-Mokhale/Anshul-Mokhale/blob/main/Group%201%20(1).svg" alt="logo" style="width: 1000px; height: 500px;">
 
 <h1 align="center">Hi 👋, I'm Anshul Mokhale</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
@@ -21,7 +21,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/anshul-mokhale-4153b4213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-mokhale-4153b4213" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshumokhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshumokhale" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@anshumokhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anshumokhale" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@anshumokhale" target="blank"><img align
+="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anshumokhale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
