@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anshul-mokhale.netlify.app/](https://anshul-mokhale.netlify.app/)
 
-- 💬 Ask me about **Php, Laravel**
+- 💬 Ask me about **MERN Stack, Laravel development**
 
 - 📫 How to reach me **anshulmokhale0712@gmail.com**
 
