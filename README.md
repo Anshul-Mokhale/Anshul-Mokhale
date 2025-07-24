@@ -1,4 +1,3 @@
-![Logo](https://github.com/Anshul-Mokhale/Anshul-Mokhale/blob/main/Group%201%20(3).svg)
 
 <h1 align="center">Hi 👋, I'm Anshul Mokhale</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
